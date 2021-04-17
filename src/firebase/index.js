@@ -8,16 +8,20 @@ import firebase from 'firebase/app';
 import 'firebase/database';
 
 // Initialize Firebase 
+
+
+
+
 const config = {
-    apiKey: "AIzaSyDC6s3dgSOmBgBzAog1aW2KaQe79kc8uK8",
-    authDomain: "davetronic-vue.firebaseapp.com",
-    databaseURL: "https://davetronic-vue.firebaseio.com",
-    projectId: "davetronic-vue",
-    storageBucket: "davetronic-vue.appspot.com",
-    messagingSenderId: "31177965414",
-    appId: "1:31177965414:web:2e248f56df1a735c64d2a7",
-    measurementId: "G-Y35HFY11SX"
-};
+    apiKey: "AIzaSyBI9pyjgiPPgUmoUPW_ELtcl7si5NxlLNo",
+    authDomain: "devetronics-5bc06.firebaseapp.com",
+    databaseURL: "https://devetronics-5bc06-default-rtdb.firebaseio.com/",
+    projectId: "devetronics-5bc06",
+    storageBucket: "devetronics-5bc06.appspot.com",
+    messagingSenderId: "39841222662",
+    appId: "1:39841222662:web:6d3a1685770248d87d3387",
+    measurementId: "G-2GYHWZK61D"
+  };
 
 firebase.initializeApp(config);
 const database = firebase.database();
@@ -28,3 +32,19 @@ export {
 
 
 // fire base.
+
+
+const config = {
+    apiKey: "AIzaSyBI9pyjgiPPgUmoUPW_ELtcl7si5NxlLNo",
+    authDomain: "devetronics-5bc06.firebaseapp.com",
+    databaseURL: "https://devetronics-5bc06-default-rtdb.firebaseio.com/",
+    projectId: "devetronics-5bc06",
+    storageBucket: "devetronics-5bc06.appspot.com",
+    messagingSenderId: "39841222662",
+    appId: "1:39841222662:web:6d3a1685770248d87d3387",
+    measurementId: "G-2GYHWZK61D"
+  };
+  
+
+
+ 
